@@ -1,0 +1,1 @@
+This is the version of the project which contain the implementation of RestTemplate as well as Feign client.

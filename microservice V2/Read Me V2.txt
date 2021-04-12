@@ -1,0 +1,3 @@
+This is the version of the project which contain the implementation of RestTemplate,Feign client.
+
+along with feign client it contain Ribbon Client side load balancer.

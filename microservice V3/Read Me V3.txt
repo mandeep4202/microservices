@@ -1,0 +1,4 @@
+This is the version of the project which contain the implementation of RestTemplate,Feign client.
+
+along with feign client, it also contain Ribbon Client side load balancer.
+Apart from the above implementation now it is using eureka naming server also.
